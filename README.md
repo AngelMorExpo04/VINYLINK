@@ -1,4 +1,4 @@
-# VINYLINK 🎵
+# VINYLINK 
 
 VINYLINK es un proyecto diseñado para revivir la magia y la experiencia táctil de los tocadiscos físicos, pero modernizada y conectada al mundo digital mediante tecnología NFC y almacenamiento en la nube. 
 
